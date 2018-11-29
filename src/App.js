@@ -6,7 +6,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        Movie GrphQL Client ~!!
+        Movie GrphQL Client ~!!<br/>
+        My First Project
       </div>
     );
   }
